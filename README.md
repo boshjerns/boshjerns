@@ -2,17 +2,31 @@
 
 **Solo full-stack creator turning ideas into working applications and products, fast.**
 
-Photographer → Web3 → Full-stack developer. Built smart contracts, trained AI models, produced AI video for AMC documentary.
+Photographer → Web3 → Full-stack developer. Built smart contracts, trained AI models, even produced AI video for AMC documentary film.
 
 ## 🛠️ Projects
 
 - 📄 **[AnyDocAI](https://anydocai.com)** – Converts any doc/image into clean HTML, Markdown, CSV
+  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifunoontqeoee4jv5vedr7cflsn5ftk2ocfbx37tmtmhd6fapywkq" width="120" height="80">
+
 - 🔍 **[WhatForWho](https://whatforwho.xyz)** – Real‑time contact discovery tool
+  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeidhchmdw2iqpgcuzlqlrrew2vci5ka3l4vbzlhlzxhjeek2sislaa" width="120" height="80">
+
 - 🤖 **[BlogAura](https://blogaura.ai)** – AI blog writer using live web data
+  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeib65pmycjzzgjm5gqdlxj73i55sirknygg55lrpwznq3iz5blnqfq" width="120" height="80">
+
 - ♻️ **[SnapCycle](https://snapcycle.fun)** – Recycling assistant with AI impact scans
+  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifuoqe6x4vtihjvv7gjatscw6uea23bhulwbi2knqsmjjskcya44a" width="120" height="80">
+
 - 🔮 **[PalmReadAI](https://palmreadai.com)** – Palm‑reading app powered by AI analysis
+
 - 🍔 **[FoodBot](https://foodbot.shop)** – Conversational food‑ordering platform (in development)
+
 - 🍽️ **[Feast Digital](https://feast.digital)** – Restaurant management platform
+
+## 🎬 AI Video Platform
+
+- 🎥 **[UserContent.ai](https://usercontent.ai)** – Professional AI influencer video generation platform
 
 ## 🧠 Tech Stack
 
