@@ -4,28 +4,6 @@
 
 I'm a photographer and creative technologist with 10+ years of experience. I turned a passion for concert photography into a business, then taught myself web development through web3. I've built smart contracts, trained AI models, and produced AI-driven video for an AMC documentary series. After freelancing as a developer, I'm now working full time building software, separate from my creative projects.
 
-## 🚀 Currently Looking For
-
-**Backend, Frontend, and Full Stack roles** - Open to remote work and willing to relocate. Looking for at least $100,000 but open to other offers from the right company.
-
-## 💼 Recent Work Experience
-
-### Solo Founder & Lead Developer | Solana-Based Project
-*Jan 2024 - Present*
-- Founded and led an anonymous Solana‑based initiative that raised $250K+ through direct sales and community-driven events
-- Designed, deployed, and maintained several production-grade Web3 dApps with wallet integration, custom payment flows, and interactive experiences for thousands of users
-- Implemented on‑chain systems delivering real utility, creative tools, and collectible frameworks
-- Managed all smart‑contract logic, full‑stack code, and community operations while operating fully anon
-
-### AI Visual Specialist & Model Training Engineer | Indie & Freelance
-*Oct 2023 - Present*
-- Trained custom Stable Diffusion models for clients across multiple industries
-- Built personalized facial‑generation pipelines and advanced asset‑creation tools
-- Developed and deployed a complete AI video workflow for an unreleased AMC documentary, training on the main character's likeness and generating motion visuals
-
-### Full‑Stack & AI Systems Builder | Indie & Freelance
-*Jun 2023 - Present*
-
 ## 🛠️ Featured Projects
 
 - **[Feast Digital](https://feast.digital)** – Restaurant management platform
