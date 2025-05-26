@@ -2,7 +2,7 @@
 
 **Solo full-stack creator turning ideas into working applications and products, fast.**
 
-Photographer → Web3 → Full-stack developer. Built smart contracts, trained AI models, produced AI video for AMC documentary.
+Photographer → Web3 → Full-stack developer. Built smart contracts, trained AI models, even produced AI video for AMC documentary film.
 
 ## 🛠️ Projects
 
