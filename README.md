@@ -9,6 +9,9 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 - 📄 **[AnyDocAI](https://anydocai.com)** – Converts any doc/image into clean HTML, Markdown, CSV
   <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifunoontqeoee4jv5vedr7cflsn5ftk2ocfbx37tmtmhd6fapywkq" width="120" height="80">
 
+- 🎥 **[UserContent.ai](https://usercontent.ai)** – Professional AI influencer video generation platform
+  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeib65pmycjzzgjm5gqdlxj73i55sirknygg55lrpwznq3iz5blnqfq" width="120" height="80">
+
 - 🔍 **[WhatForWho](https://whatforwho.xyz)** – Real‑time contact discovery tool
   <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeidhchmdw2iqpgcuzlqlrrew2vci5ka3l4vbzlhlzxhjeek2sislaa" width="120" height="80">
 
@@ -23,8 +26,6 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 
 - 🍽️ **[Feast Digital](https://feast.digital)** – Restaurant management platform
 
-- 🎥 **[UserContent.ai](https://usercontent.ai)** – Professional AI influencer video generation platform
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeib65pmycjzzgjm5gqdlxj73i55sirknygg55lrpwznq3iz5blnqfq" width="120" height="80">
 
 ## 🧠 Tech Stack
 
