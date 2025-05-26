@@ -23,8 +23,6 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 
 - 🍽️ **[Feast Digital](https://feast.digital)** – Restaurant management platform
 
-## 🎬 AI Video Platform
-
 - 🎥 **[UserContent.ai](https://usercontent.ai)** – Professional AI influencer video generation platform
   <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeib65pmycjzzgjm5gqdlxj73i55sirknygg55lrpwznq3iz5blnqfq" width="120" height="80">
 
