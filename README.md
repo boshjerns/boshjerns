@@ -6,11 +6,11 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 
 ## 🛠️ Projects
 
+- 📄 **[AnyDocAI](https://anydocai.com)** – Converts any doc/image into clean HTML, Markdown, CSV
+- 🔍 **[WhatForWho](https://whatforwho.xyz)** – Real‑time contact discovery tool
 - 🤖 **[BlogAura](https://blogaura.ai)** – AI blog writer using live web data
 - ♻️ **[SnapCycle](https://snapcycle.fun)** – Recycling assistant with AI impact scans
 - 🔮 **[PalmReadAI](https://palmreadai.com)** – Palm‑reading app powered by AI analysis
-- 📄 **[AnyDocAI](https://anydocai.com)** – Converts any doc/image into clean HTML, Markdown, CSV
-- 🔍 **[WhatForWho](https://whatforwho.xyz)** – Real‑time contact discovery tool
 - 🍔 **[FoodBot](https://foodbot.shop)** – Conversational food‑ordering platform (in development)
 - 🍽️ **[Feast Digital](https://feast.digital)** – Restaurant management platform
 
