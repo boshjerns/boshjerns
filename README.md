@@ -35,9 +35,9 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 
 **Database:** 🐘 PostgreSQL • 🌐 NeonDB • 🗄️ Drizzle ORM • 🛂 Passport.js • 🔥 Firebase Auth
 
-**AI/LLM:** 🤖 OpenAI GPT-4o • 🧠 Anthropic Claude • 💎 Google Gemini • 🔗 LangChain • 🎛️ Gradio
+**AI/LLM:** 🤖 OpenAI GPT • 🧠 Anthropic Claude • 💎 Google Gemini • 🔗 LangChain • 🎛️ Gradio
 
-**Deploy:** 🔥 Firebase • ☁️ Render/Vercel/Railway
+**Deploy:** 🔥 Firebase • ☁️ Vercel
 
 ## 🏆 Proudest Project
 
