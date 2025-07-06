@@ -6,37 +6,25 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 
 ---
 
-# 🎯 **CURRENT FOCUS: DofDgpt.com**
+# 🎯 **CURRENT FOCUS: DofDgpt.com / Deploy Forward**
 
-I'm witnessing how rapidly government agencies are adopting AI workflows and tools to enhance productivity while modernizing legacy systems. This presents the most compelling opportunity space to tackle right now—building software solutions across the diverse industries that government touches, while helping our institutions function more efficiently during a critical time when technological supremacy is paramount. As someone transitioning from consumer applications to solutions that serve a greater purpose and help people accomplish meaningful goals, this is where I'm directing my energy.
+I'm witnessing how rapidly government agencies are adopting AI workflows and tools to enhance productivity while modernizing legacy systems. This presents the most compelling opportunity space to tackle right now, building software solutions across the diverse industries that government touches, while helping our institutions function more efficiently during a critical time when technological supremacy is paramount.
 
-**[DofDgpt.com](https://dofdgpt.com)** is a focused, AI-first contract-intelligence platform: slick React UI, solid Node/Postgres backend, modular LLM layer, making dense government contracting opportunities and notices instantly understandable and actionable.
+**[DofDgpt.com](https://dofdgpt.com)** is a focused, AI-first contract-intelligence platform making dense government contracting opportunities instantly understandable and actionable. Operating under **[Deploy Forward](https://deployforward.com)** - my new organization focused on AI workflow solutions for government and those working with government, rather than consumer applications.
 
-<br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreig744uv5imswh3tmviijjq6trsuvolgxqqb33wy7q5t2ntsbci34y" width="600" height="400">
+| **DofDgpt.com** | **Deploy Forward** |
+|:---:|:---:|
+| <img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreig744uv5imswh3tmviijjq6trsuvolgxqqb33wy7q5t2ntsbci34y" width="400" height="300"> | <img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreiarktap776dd5olw2evsoyjr4725drjkgbqp6rpghxa6oym7qwltq" width="400" height="300"> |
 
 ## 🔍 **Key Features**
 
-• **Daily SAM scraping** with official API calls (CAGE code and UEI code for high call access) → ingests new contract notices, normalizes them into Postgres DB
-
-• **Natural-language search** across database (LLMs plus vector similarity)
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreigc555rd67lkfcub6wmar46rw7vdimgawktbu2osmzla4wdx63vu4" width="400" height="300">
-
-• **Clean contract navigation** with easy database search
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreic2foq5p2t2glozeetclrz75ae2gofbkmr6g677na5vs2mp5qmeda" width="400" height="300">
-
-• **Contract overview intelligence** - quickly understand deliverables, contacts, and navigate through complexity
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreibjwyqad3n3cettnbhyc4rf3uduxgowgxiapy7xdptokzfcp3tygq" width="400" height="300">
-
-• **Doc-chat functionality** - users upload PDF solicitations → system chunks it, embeds text, and lets them ask questions
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreih3nujrcdclycbnky2uis7scqtebbaiyz5g53v2m3y3bfv7cqu324" width="400" height="300">
-
-• **One-click analytics dashboards** (Databricks) summarizing market/agency/NAICS trends
-
-• **User auth & billing** - Google OAuth, Stripe-based plans, coupon codes (e.g., free 7-day trial "DEPLOYFORWARD")
-
-• **Model-agnostic design** - wrappers let you swap OpenAI, Claude, Gemini, etc., as prices/quality change
-
-• **O3 live web search** (coming) to pull the latest regs/articles into answers
+• **Daily SAM scraping** with official API integration → ingests and normalizes contract notices into Postgres DB
+• **Natural-language search** with LLMs and vector similarity across contracts database  
+• **Contract intelligence** - quickly understand deliverables, contacts, and navigate complexity
+• **Doc-chat functionality** - upload PDF solicitations and ask questions about requirements
+• **Analytics dashboards** summarizing market/agency/NAICS trends
+• **User auth & billing** - Google OAuth, Stripe plans, trial codes ("DEPLOYFORWARD")
+• **Model-agnostic design** - swap between OpenAI, Claude, Gemini as needed
 
 ## 🛠️ **Tech Stack**
 - **Frontend:** React + Tailwind (glassmorphism / neumorphism touches)
