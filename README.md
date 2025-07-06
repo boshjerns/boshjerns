@@ -57,7 +57,7 @@ I'm witnessing how rapidly government agencies are adopting AI workflows and too
   <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifuoqe6x4vtihjvv7gjatscw6uea23bhulwbi2knqsmjjskcya44a" width="120" height="80">
 
 - ♻️ **SnapCycle** 🏷️ **SOLD** – Recycling assistant with AI impact scans
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreihkhunfcml47vg764nj7yr4o4fwocudeirkpw3wez5yq544pa6o34" width="120" height="80">
+  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeiaudkbkzamt7vzhvpz3tdcob2kotpc5u2wkbu2exlcj7h67fah6wi" width="120" height="80">
 
 - 🔮 **[PalmReadAI](https://palmreadai.com)** – Palm‑reading app powered by AI analysis
 
