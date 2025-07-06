@@ -68,15 +68,19 @@ I'm witnessing how rapidly government agencies are adopting AI workflows and too
 
 ## 🧠 Tech Stack
 
-**Frontend:** ⚛️ React • 🎨 TailwindCSS • 📝 TypeScript • ⚡ Vite • 🔧 tsx • 📦 ESBuild
+**Frontend:** ⚛️ React • 🎨 TailwindCSS • 📝 TypeScript • ⚡ Vite • 🔧 tsx • 📦 ESBuild • 🔧 ESLint • 🎨 Prettier
 
-**Backend:** 🟢 Node.js • 🚀 Express • 🐍 Flask • 🦄 Gunicorn • 📧 Nodemailer • 💳 Stripe • 🎨 Canvas API
+**Backend:** 🟢 Node.js • 🚀 Express • 🐍 Flask • 🦄 Gunicorn • 📧 Nodemailer • 💳 Stripe • 🎨 Canvas API • 🔌 WebSocket • 📡 Socket.io
 
-**Database:** 🐘 PostgreSQL • 🌐 NeonDB • 🗄️ Drizzle ORM • 🛂 Passport.js • 🔥 Firebase Auth
+**Database:** 🐘 PostgreSQL • 🌐 NeonDB • 🌐 Supabase • 🗄️ Drizzle ORM • 🛂 Passport.js • 🔥 Firebase Auth • 🔍 pgvector • 📦 S3
 
-**AI/LLM:** 🤖 OpenAI GPT • 🧠 Anthropic Claude • 💎 Google Gemini • 🔗 LangChain • 🎛️ Gradio
+**AI/LLM:** 🤖 OpenAI GPT • 🧠 Anthropic Claude • 💎 Google Gemini • 🔗 LangChain • 🎛️ Gradio • 🎭 Replicate.com • 🎬 AI Video Generation • 🖼️ Computer Vision • 📊 Vector Embeddings
 
-**Deploy:** 🔥 Firebase • ☁️ Vercel
+**Web3/Blockchain:** 🔗 Ethereum • 🌅 Solana • 🦊 MetaMask • 🔐 Smart Contracts • 🎨 NFT Development
+
+**Deploy:** 🔥 Firebase • ☁️ Vercel • 🚀 Render • 🛸 Fly.io • 🐳 Docker
+
+**Analytics:** 📊 Databricks • 📈 Custom Analytics • 📋 Logging & Monitoring
 
 ## 🏆 Proudest Project
 
