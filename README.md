@@ -18,7 +18,8 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 - 🤖 **[BlogAura](https://blogaura.ai)** – AI blog writer using live web data
   <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifuoqe6x4vtihjvv7gjatscw6uea23bhulwbi2knqsmjjskcya44a" width="120" height="80">
 
-- ♻️ **[SnapCycle](https://snapcycle.fun)** – Recycling assistant with AI impact scans
+- ♻️ **SnapCycle** 🏷️ **SOLD** – Recycling assistant with AI impact scans
+  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreihkhunfcml47vg764nj7yr4o4fwocudeirkpw3wez5yq544pa6o34" width="120" height="80">
 
 - 🔮 **[PalmReadAI](https://palmreadai.com)** – Palm‑reading app powered by AI analysis
 
