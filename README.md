@@ -18,7 +18,11 @@ I'm witnessing how rapidly government agencies are adopting AI workflows and too
 
 ---
 
-## 🔐 **Mithril: Zero-Trust, Air-Gapped LLM Solutions**
+## 🔐 **[Mithril: Zero-Trust, Air-Gapped LLM Solutions](https://www.deployforward.com/mithril)**
+
+<div align="center">
+  <img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreibrybnuce5fiwpa5benx4atcohpftpeztlgjph27kqd3w27ho7zbe" width="400" height="300">
+</div>
 
 ```
 ███╗   ███╗██╗████████╗██╗  ██╗██████╗ ██╗██╗     
@@ -29,7 +33,7 @@ I'm witnessing how rapidly government agencies are adopting AI workflows and too
 ╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
 ```
 
-**Mithril** enables organizations to run high-quality LLMs in completely air-gapped environments. Perfect for government agencies and security-conscious organizations who need AI capabilities without data exposure risks.
+**[Mithril](https://www.deployforward.com/mithril)** enables organizations to run high-quality LLMs in completely air-gapped environments. Perfect for government agencies and security-conscious organizations who need AI capabilities without data exposure risks.
 
 • **100% offline** - Local models that never connect to the internet  
 • **Minimal investment** - Hardware requirements of just $1-2K  
