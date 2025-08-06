@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Bosh
+# Hey there! 👋 I'm Josh
 
 **Solo full-stack creator turning ideas into working applications and products, fast.**
 
@@ -58,6 +58,9 @@ I'm witnessing how rapidly government agencies are adopting AI workflows and too
 
 - ♻️ **SnapCycle** 🏷️ **SOLD** – Recycling assistant with AI impact scans
   <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeiaudkbkzamt7vzhvpz3tdcob2kotpc5u2wkbu2exlcj7h67fah6wi" width="120" height="80">
+
+- 📄 **[ChatWithMyDoc](https://www.chatwithmydoc.live)** – Quickly create secure links to chat with documents - PDFs, HTML, etc
+  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreic3tuteq2e7molkoj7fpsmuu5v5pafnz5smystdpoyiki7kj3ampy" width="120" height="80">
 
 - 🔮 **[PalmReadAI](https://palmreadai.com)** – Palm‑reading app powered by AI analysis
 
