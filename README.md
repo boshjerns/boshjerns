@@ -16,30 +16,6 @@ I'm witnessing how rapidly government agencies are adopting AI workflows and too
 |:---:|:---:|
 | <img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreig744uv5imswh3tmviijjq6trsuvolgxqqb33wy7q5t2ntsbci34y" width="400" height="300"> | <img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreiarktap776dd5olw2evsoyjr4725drjkgbqp6rpghxa6oym7qwltq" width="400" height="300"> |
 
-## 🔍 **Key Features**
-
-• **Daily SAM scraping** with official API integration → ingests and normalizes contract notices into Postgres DB
-• **Natural-language search** with LLMs and vector similarity across contracts database  
-• **Contract intelligence** - quickly understand deliverables, contacts, and navigate complexity
-• **Doc-chat functionality** - upload PDF solicitations and ask questions about requirements
-• **Analytics dashboards** summarizing market/agency/NAICS trends
-• **User auth & billing** - Google OAuth, Stripe plans, trial codes ("DEPLOYFORWARD")
-• **Model-agnostic design** - swap between OpenAI, Claude, Gemini as needed
-
-## 🛠️ **Tech Stack**
-- **Frontend:** React + Tailwind (glassmorphism / neumorphism touches)
-- **Backend:** Node/Express + WebSocket for real-time updates
-- **Database:** PostgreSQL with Drizzle ORM
-- **AI/Vector:** OpenAI (text-embedding-3, GPT-4o) → Supabase/pgvector
-- **Infrastructure:** Vercel for FE; Render/Fly for BE services; S3 for file storage
-- **Payments:** Stripe
-- **Analytics:** Databricks + custom dashboards
-
-## 🔒 **Security & Compliance**
-- No training on user data
-- Encrypted at rest; short retention windows on transient chat context
-- FedRAMP-authorized hosting not yet in place, but architecture keeps that path open
-
 ---
 
 ## 🛠️ Other Projects
