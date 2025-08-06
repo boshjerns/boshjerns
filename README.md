@@ -45,28 +45,28 @@ I'm witnessing how rapidly government agencies are adopting AI workflows and too
 ## 🛠️ Other Projects
 
 - 📄 **[AnyDocAI](https://anydocai.com)** – Converts any doc/image into clean HTML, Markdown, CSV
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifunoontqeoee4jv5vedr7cflsn5ftk2ocfbx37tmtmhd6fapywkq" width="120" height="80">
-
-- 🎥 **[UserContent.ai](https://usercontent.ai)** – Professional AI influencer video generation platform
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeib65pmycjzzgjm5gqdlxj73i55sirknygg55lrpwznq3iz5blnqfq" width="120" height="80">
-
-- 🔍 **[WhatForWho](https://whatforwho.xyz)** – Real‑time contact discovery tool
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeidhchmdw2iqpgcuzlqlrrew2vci5ka3l4vbzlhlzxhjeek2sislaa" width="120" height="80">
+  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifunoontqeoee4jv5vedr7cflsn5ftk2ocfbx37tmtmhd6fapywkq" width="200" height="133"></div>
 
 - 🤖 **[BlogAura](https://blogaura.ai)** – AI blog writer using live web data
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifuoqe6x4vtihjvv7gjatscw6uea23bhulwbi2knqsmjjskcya44a" width="120" height="80">
-
-- ♻️ **SnapCycle** 🏷️ **SOLD** – Recycling assistant with AI impact scans
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeiaudkbkzamt7vzhvpz3tdcob2kotpc5u2wkbu2exlcj7h67fah6wi" width="120" height="80">
+  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifuoqe6x4vtihjvv7gjatscw6uea23bhulwbi2knqsmjjskcya44a" width="200" height="133"></div>
 
 - 📄 **[ChatWithMyDoc](https://www.chatwithmydoc.live)** – Quickly create secure links to chat with documents - PDFs, HTML, etc
-  <br><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreic3tuteq2e7molkoj7fpsmuu5v5pafnz5smystdpoyiki7kj3ampy" width="120" height="80">
+  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreic3tuteq2e7molkoj7fpsmuu5v5pafnz5smystdpoyiki7kj3ampy" width="200" height="133"></div>
 
-- 🔮 **[PalmReadAI](https://palmreadai.com)** – Palm‑reading app powered by AI analysis
+- 🍽️ **[Feast Digital](https://feast.digital)** – Restaurant management platform
 
 - 🍔 **[FoodBot](https://foodbot.shop)** – Conversational food‑ordering platform (in development)
 
-- 🍽️ **[Feast Digital](https://feast.digital)** – Restaurant management platform
+- 🔮 **[PalmReadAI](https://palmreadai.com)** – Palm‑reading app powered by AI analysis
+
+- ♻️ **SnapCycle** 🏷️ **SOLD** – Recycling assistant with AI impact scans
+  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeiaudkbkzamt7vzhvpz3tdcob2kotpc5u2wkbu2exlcj7h67fah6wi" width="200" height="133"></div>
+
+- 🎥 **[UserContent.ai](https://usercontent.ai)** – Professional AI influencer video generation platform
+  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeib65pmycjzzgjm5gqdlxj73i55sirknygg55lrpwznq3iz5blnqfq" width="200" height="133"></div>
+
+- 🔍 **[WhatForWho](https://whatforwho.xyz)** – Real‑time contact discovery tool
+  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeidhchmdw2iqpgcuzlqlrrew2vci5ka3l4vbzlhlzxhjeek2sislaa" width="200" height="133"></div>
 
 
 ## 🧠 Tech Stack
