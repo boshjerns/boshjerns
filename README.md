@@ -6,42 +6,41 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 
 ---
 
-# 🎯 **CURRENT FOCUS: DofDgpt.com / Deploy Forward**
+## **Deploy Forward**
 
-I'm witnessing how rapidly government agencies are adopting AI workflows and tools to enhance productivity while modernizing legacy systems. This presents the most compelling opportunity space to tackle right now, building software solutions across the diverse industries that government touches, while helping our institutions function more efficiently during a critical time when technological supremacy is paramount.
-
-**[DofDgpt.com](https://dofdgpt.com)** is a focused, AI-first contract-intelligence platform making dense government contracting opportunities instantly understandable and actionable. Operating under **[Deploy Forward](https://deployforward.com)** - my new organization focused on AI workflow solutions for government and those working with government, rather than consumer applications.
-
-| **DofDgpt.com** | **Deploy Forward** |
-|:---:|:---:|
-| <img src="https://ipfs.io/ipfs/bafkreig744uv5imswh3tmviijjq6trsuvolgxqqb33wy7q5t2ntsbci34y" width="400" height="300"> | <img src="https://ipfs.io/ipfs/bafkreibm5jlbo4p7f6w2wj5fdux7zmzwenguyoakendynbtedozfo5swca" width="400" height="300"> |
+|  |  |
+|:--|:--:|
+| AI workflow solutions for governments and contractors. Secure, practical tools and systems for mission needs. Learn more at **[deployforward.com](https://deployforward.com)**. | <img src="https://ipfs.io/ipfs/bafkreibm5jlbo4p7f6w2wj5fdux7zmzwenguyoakendynbtedozfo5swca" width="400" height="300"> |
 
 ---
 
-## 🔐 **[Mithril: Zero-Trust, Air-Gapped LLM Solutions](https://www.deployforward.com/mithril)**
+## **DofDgpt.com**
 
-<div align="center">
-  <img src="https://ipfs.io/ipfs/bafkreibrybnuce5fiwpa5benx4atcohpftpeztlgjph27kqd3w27ho7zbe" width="400" height="300">
-</div>
+|  |  |
+|:--|:--:|
+| AI‑first contract‑intelligence platform that makes dense opportunities instantly understandable and actionable. Visit **[DofDgpt.com](https://dofdgpt.com)**. | <img src="https://ipfs.io/ipfs/bafkreig744uv5imswh3tmviijjq6trsuvolgxqqb33wy7q5t2ntsbci34y" width="400" height="300"> |
 
-```
-███╗   ███╗██╗████████╗██╗  ██╗██████╗ ██╗██╗     
-████╗ ████║██║╚══██╔══╝██║  ██║██╔══██╗██║██║     
-██╔████╔██║██║   ██║   ███████║██████╔╝██║██║     
-██║╚██╔╝██║██║   ██║   ██╔══██║██╔══██╗██║██║     
-██║ ╚═╝ ██║██║   ██║   ██║  ██║██║  ██║██║███████╗
-╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-```
+---
 
-**[Mithril](https://www.deployforward.com/mithril)** delivers comprehensive air-gapped LLM solutions for organizations that cannot compromise on security. We provide everything from pre-configured hardware systems to custom application development - all designed with zero-trust principles at the core.
+## 🔐 **[Mithril](https://www.deployforward.com/mithril)**
 
-• **Full-stack solutions** - From pre-bundled hardware systems to proprietary applications like our local-model IDE  
-• **True air-gap security** - Complete isolation from internet, cloud services, and external networks  
-• **Turn-key deployment** - Pre-configured systems with bundled dependencies ready for immediate use  
-• **Custom applications** - Proprietary IDE optimized for small local models, document processors, and analysis tools  
-• **Universal use cases** - Beyond coding: data analysis, document intelligence, decision support, and workflow automation  
+### Zero‑Trust, Air‑Gapped LLM Solutions
 
-Mithril empowers organizations to harness cutting-edge AI capabilities without cloud dependencies or security compromises. Perfect for government agencies, financial institutions, and any organization where data sovereignty is non-negotiable.
+|  |  |
+|:--|:--:|
+| Complete offline LLM systems: pre‑configured hardware and local‑model apps. No internet required—data stays on your network. | <img src="https://ipfs.io/ipfs/bafkreibrybnuce5fiwpa5benx4atcohpftpeztlgjph27kqd3w27ho7zbe" width="400" height="300"> |
+
+### Mithril IDE — Local coding environment
+
+|  |  |
+|:--|:--:|
+| Lightweight coding IDE optimized for small local models (e.g., Qwen 2.5 Coder 3B). Runs fully offline. | <a href="https://youtu.be/BxY_vdtio4Q"><img src="https://img.youtube.com/vi/BxY_vdtio4Q/hqdefault.jpg" width="400" height="300"></a> |
+
+### Mithril Whisper — Local voice dictation
+
+|  |  |
+|:--|:--:|
+| 100% local speech‑to‑text with packaged binaries. Optional assistant mode when run locally with your own API keys. | <a href="https://youtu.be/mIJPFHVJPlw"><img src="https://img.youtube.com/vi/mIJPFHVJPlw/hqdefault.jpg" width="400" height="300"></a> |
 
 ---
 
