@@ -14,14 +14,14 @@ I'm witnessing how rapidly government agencies are adopting AI workflows and too
 
 | **DofDgpt.com** | **Deploy Forward** |
 |:---:|:---:|
-| <img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreig744uv5imswh3tmviijjq6trsuvolgxqqb33wy7q5t2ntsbci34y" width="400" height="300"> | <img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreibm5jlbo4p7f6w2wj5fdux7zmzwenguyoakendynbtedozfo5swca" width="400" height="300"> |
+| <img src="https://ipfs.io/ipfs/bafkreig744uv5imswh3tmviijjq6trsuvolgxqqb33wy7q5t2ntsbci34y" width="400" height="300"> | <img src="https://ipfs.io/ipfs/bafkreibm5jlbo4p7f6w2wj5fdux7zmzwenguyoakendynbtedozfo5swca" width="400" height="300"> |
 
 ---
 
 ## 🔐 **[Mithril: Zero-Trust, Air-Gapped LLM Solutions](https://www.deployforward.com/mithril)**
 
 <div align="center">
-  <img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreibrybnuce5fiwpa5benx4atcohpftpeztlgjph27kqd3w27ho7zbe" width="400" height="300">
+  <img src="https://ipfs.io/ipfs/bafkreibrybnuce5fiwpa5benx4atcohpftpeztlgjph27kqd3w27ho7zbe" width="400" height="300">
 </div>
 
 ```
@@ -50,22 +50,22 @@ Mithril empowers organizations to harness cutting-edge AI capabilities without c
 ### Projects with Visual Examples
 
 - 📄 **[AnyDocAI](https://anydocai.com)** – Converts any doc/image into clean HTML, Markdown, CSV
-  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifunoontqeoee4jv5vedr7cflsn5ftk2ocfbx37tmtmhd6fapywkq" width="200" height="133"></div>
+  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeifunoontqeoee4jv5vedr7cflsn5ftk2ocfbx37tmtmhd6fapywkq" width="200" height="133"></div>
 
 - 🤖 **[BlogAura](https://blogaura.ai)** – AI blog writer using live web data
-  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeifuoqe6x4vtihjvv7gjatscw6uea23bhulwbi2knqsmjjskcya44a" width="200" height="133"></div>
+  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeifuoqe6x4vtihjvv7gjatscw6uea23bhulwbi2knqsmjjskcya44a" width="200" height="133"></div>
 
 - 📄 **[ChatWithMyDoc](https://www.chatwithmydoc.live)** – Quickly create secure links to chat with documents - PDFs, HTML, etc
-  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafkreic3tuteq2e7molkoj7fpsmuu5v5pafnz5smystdpoyiki7kj3ampy" width="200" height="133"></div>
+  <br><div align="center"><img src="https://ipfs.io/ipfs/bafkreic3tuteq2e7molkoj7fpsmuu5v5pafnz5smystdpoyiki7kj3ampy" width="200" height="133"></div>
 
 - ♻️ **SnapCycle** 🏷️ **SOLD** – Recycling assistant with AI impact scans
-  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeiaudkbkzamt7vzhvpz3tdcob2kotpc5u2wkbu2exlcj7h67fah6wi" width="200" height="133"></div>
+  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeiaudkbkzamt7vzhvpz3tdcob2kotpc5u2wkbu2exlcj7h67fah6wi" width="200" height="133"></div>
 
 - 🎥 **[UserContent.ai](https://usercontent.ai)** – Professional AI influencer video generation platform
-  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeib65pmycjzzgjm5gqdlxj73i55sirknygg55lrpwznq3iz5blnqfq" width="200" height="133"></div>
+  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeib65pmycjzzgjm5gqdlxj73i55sirknygg55lrpwznq3iz5blnqfq" width="200" height="133"></div>
 
 - 🔍 **[WhatForWho](https://whatforwho.xyz)** – Real‑time contact discovery tool
-  <br><div align="center"><img src="https://turquoise-efficient-wasp-299.mypinata.cloud/ipfs/bafybeidhchmdw2iqpgcuzlqlrrew2vci5ka3l4vbzlhlzxhjeek2sislaa" width="200" height="133"></div>
+  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeidhchmdw2iqpgcuzlqlrrew2vci5ka3l4vbzlhlzxhjeek2sislaa" width="200" height="133"></div>
 
 ### Additional Projects
 

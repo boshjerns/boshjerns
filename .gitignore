@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow directories so nested README files can be un-ignored
+!*/
+
+# Keep the .gitignore itself
+!.gitignore
+
+# Keep README files anywhere
+!**/README.md
+!**/README.MD
