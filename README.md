@@ -10,7 +10,7 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 
 |  |  |
 |:--|:--:|
-| **Mithril Whisper** is a completely free, privacy‑first AI voice dictation application that runs entirely on your device using Whisper.cpp. Features include global hotkey activation, heads‑up display overlay, and zero data transmission—your voice never leaves your computer. Perfect for writers, developers, and anyone who values privacy. | <img src="images/mithril-whisper-CKumv1R8.png" width="400" alt="Mithril Whisper preview"> |
+| **Mithril Whisper** is a completely free, privacy‑first AI voice dictation application that runs entirely on your device using Whisper.cpp. Features include global hotkey activation, heads‑up display overlay, and zero data transmission—your voice never leaves your computer. Perfect for writers, developers, and anyone who values privacy. | <img src="https://raw.githubusercontent.com/boshjerns/boshjerns/main/images/mithril-whisper-CKumv1R8.png" width="400" alt="Mithril Whisper preview"> |
 
 **Tags:** AI Voice • Privacy • Local Processing • Whisper • [mithril.solutions](https://mithril.solutions)
 
@@ -20,7 +20,7 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 
 |  |  |
 |:--|:--:|
-| **Mithril LLM Suite** brings the power of large language models directly to your iOS device. Run AI models completely offline with no internet connection required. Multiple model options, local inference, and complete privacy—your conversations never leave your device. Free download available on the iOS App Store. | <img src="images/mithril-llm-suite-DjMp8JG3.png" width="400" alt="Mithril LLM Suite preview"> |
+| **Mithril LLM Suite** brings the power of large language models directly to your iOS device. Run AI models completely offline with no internet connection required. Multiple model options, local inference, and complete privacy—your conversations never leave your device. Free download available on the iOS App Store. | <img src="https://raw.githubusercontent.com/boshjerns/boshjerns/main/images/mithril-llm-suite-DjMp8JG3.png" width="400" alt="Mithril LLM Suite preview"> |
 
 **Tags:** iOS • Local LLM • On‑Device AI • Privacy • [mithril.solutions](https://mithril.solutions)
 
@@ -32,7 +32,7 @@ App Store: https://apps.apple.com/us/app/local-llm-mithril/id6751945393
 
 |  |  |
 |:--|:--:|
-| **DoFDGPT** is an AI‑first contract‑intelligence platform that makes dense government contract opportunities instantly understandable and actionable. The platform analyzes complex RFPs, identifies key requirements, and provides strategic insights to help businesses win more contracts. Features include automated opportunity scoring, requirement extraction, and competitive analysis. | <img src="images/dofdgpt-0SFdkiSv.png" width="400" alt="DoFDGPT preview"> |
+| **DoFDGPT** is an AI‑first contract‑intelligence platform that makes dense government contract opportunities instantly understandable and actionable. The platform analyzes complex RFPs, identifies key requirements, and provides strategic insights to help businesses win more contracts. Features include automated opportunity scoring, requirement extraction, and competitive analysis. | <img src="https://raw.githubusercontent.com/boshjerns/boshjerns/main/images/dofdgpt-0SFdkiSv.png" width="400" alt="DoFDGPT preview"> |
 
 Site: https://dofdgpt.com
 
