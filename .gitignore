@@ -10,3 +10,10 @@
 # Keep README files anywhere
 !**/README.md
 !**/README.MD
+
+# Allow images used in README
+!images/
+!**/*.png
+!**/*.jpg
+!**/*.jpeg
+!**/*.gif
