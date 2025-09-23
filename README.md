@@ -6,41 +6,35 @@ Photographer → Web3 → Full-stack developer. Built smart contracts, trained A
 
 ---
 
-## **Deploy Forward**
+## Mithril Whisper
 
 |  |  |
 |:--|:--:|
-| AI workflow solutions for governments and contractors. Secure, practical tools and systems for mission needs. Learn more at **[deployforward.com](https://deployforward.com)**. | <img src="https://ipfs.io/ipfs/bafkreibm5jlbo4p7f6w2wj5fdux7zmzwenguyoakendynbtedozfo5swca" width="400" height="300"> |
+| **Mithril Whisper** is a completely free, privacy‑first AI voice dictation application that runs entirely on your device using Whisper.cpp. Features include global hotkey activation, heads‑up display overlay, and zero data transmission—your voice never leaves your computer. Perfect for writers, developers, and anyone who values privacy. | <img src="images/mithril-whisper-CKumv1R8.png" width="400" alt="Mithril Whisper preview"> |
+
+**Tags:** AI Voice • Privacy • Local Processing • Whisper • [mithril.solutions](https://mithril.solutions)
 
 ---
 
-## **DofDgpt.com**
+## Mithril LLM Suite
 
 |  |  |
 |:--|:--:|
-| AI‑first contract‑intelligence platform that makes dense opportunities instantly understandable and actionable. Visit **[DofDgpt.com](https://dofdgpt.com)**. | <img src="https://ipfs.io/ipfs/bafkreig744uv5imswh3tmviijjq6trsuvolgxqqb33wy7q5t2ntsbci34y" width="400" height="300"> |
+| **Mithril LLM Suite** brings the power of large language models directly to your iOS device. Run AI models completely offline with no internet connection required. Multiple model options, local inference, and complete privacy—your conversations never leave your device. Free download available on the iOS App Store. | <img src="images/mithril-llm-suite-DjMp8JG3.png" width="400" alt="Mithril LLM Suite preview"> |
+
+**Tags:** iOS • Local LLM • On‑Device AI • Privacy • [mithril.solutions](https://mithril.solutions)
+
+App Store: https://apps.apple.com/us/app/local-llm-mithril/id6751945393
 
 ---
 
-## 🔐 **[Mithril](https://www.deployforward.com/mithril)**
-
-### Zero‑Trust, Air‑Gapped LLM Solutions
+## DoFDGPT
 
 |  |  |
 |:--|:--:|
-| Complete offline LLM systems: pre‑configured hardware and local‑model apps. No internet required—data stays on your network. | <img src="https://ipfs.io/ipfs/bafkreibrybnuce5fiwpa5benx4atcohpftpeztlgjph27kqd3w27ho7zbe" width="400" height="300"> |
+| **DoFDGPT** is an AI‑first contract‑intelligence platform that makes dense government contract opportunities instantly understandable and actionable. The platform analyzes complex RFPs, identifies key requirements, and provides strategic insights to help businesses win more contracts. Features include automated opportunity scoring, requirement extraction, and competitive analysis. | <img src="images/dofdgpt-0SFdkiSv.png" width="400" alt="DoFDGPT preview"> |
 
-### Mithril IDE — Local coding environment
-
-|  |  |
-|:--|:--:|
-| Lightweight coding IDE optimized for small local models (e.g., Qwen 2.5 Coder 3B). Runs fully offline. | <a href="https://youtu.be/BxY_vdtio4Q"><img src="https://img.youtube.com/vi/BxY_vdtio4Q/hqdefault.jpg" width="400" height="300"></a> |
-
-### Mithril Whisper — Local voice dictation
-
-|  |  |
-|:--|:--:|
-| 100% local speech‑to‑text with packaged binaries. Optional assistant mode when run locally with your own API keys. | <a href="https://youtu.be/mIJPFHVJPlw"><img src="https://img.youtube.com/vi/mIJPFHVJPlw/hqdefault.jpg" width="400" height="300"></a> |
+Site: https://dofdgpt.com
 
 ---
 
