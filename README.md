@@ -87,7 +87,7 @@ Site: https://dofdgpt.com
 
 ## 📫 Connect
 
-🌐 [boshjerns.xyz](https://www.boshjerns.xyz/) • 🐦 [@boshjerns](https://twitter.com/boshjerns) • 💼 [@boshjerns](https://github.com/boshjerns)
+🐦 [@boshjerns](https://twitter.com/boshjerns) • 💼 [@boshjerns](https://github.com/boshjerns)
 
 ---
 
