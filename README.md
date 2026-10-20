@@ -56,6 +56,18 @@ Along the way I fix correctness bugs in the open-source runtimes we build on: [l
 - **[Mithril Whisper](https://github.com/boshjerns/MithrilWhisperApp)**: private on-device dictation for Mac and Windows.
 - **[Tmuxius](https://github.com/boshjerns/Tmuxius)**: a compact tmux dashboard for coding agents.
 
+## Experiments
+
+Smaller things I built and posted on [X](https://x.com/boshjerns).
+
+|  |  |
+|:--|:--:|
+| Resident Evil 4 played as enemy characters, running in the browser on WebAssembly and natively on ARM64 with no emulators. [Post](https://x.com/boshjerns/status/2106994405232312748) | <img src="images/x-re4wasm.jpg" width="320" alt="Resident Evil 4 as enemy characters"> |
+| Turned my MRI scan from a CD into a 3D model of my cerebral veins with a few scripts. [Post](https://x.com/boshjerns/status/1929395825706156299) | <img src="images/x-mri.jpg" width="320" alt="MRI to 3D"> |
+| Built a browser agent that applied to a software engineering job for me. [Post](https://x.com/boshjerns/status/1926093250223358126) | <img src="images/x-agent.jpg" width="320" alt="Browser agent"> |
+| Stable Diffusion animation for a TV docu-series: generate with a specific model, then add motion. [Post](https://x.com/boshjerns/status/1758247341168152827) | <img src="images/x-ai-docu.jpg" width="320" alt="AI video for TV"> |
+| None of these portraits are real photographs. Each comes from a Stable Diffusion model trained on my photos of that person. [Post](https://x.com/boshjerns/status/1708237946313159045) | <img src="images/x-ai-selfie-results.jpg" width="320" alt="Generated portraits"> |
+
 ## Before software
 
 I spent years photographing live music on the East Coast as a house photographer for venues including Franklin Music Hall in Philadelphia and I.M.P.'s venues in Washington, D.C., and shot the streets of Baltimore. I learned smart contracts to sell my photography online, built Camera Person (122 photographers from 39 countries in one collection), then trained Stable Diffusion models as a new kind of camera and produced AI video for an AMC documentary.
