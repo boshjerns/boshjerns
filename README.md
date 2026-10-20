@@ -10,7 +10,7 @@ I build real-time software: games and the AI models inside them at MASHBOX, nati
 
 |  |  |
 |:--|:--:|
-| **[MASHBOX](https://mashbox.gg)**: any world, any gameplay, any character. MASHBOX puts the worlds and play styles of the games you already own into one engine, with multiplayer. Free early access on Windows, and our own worlds run right in the browser.<br><br>**MASHBOX Labs** trains the models behind our Unreal Engine 5 game, 2034: creature motion that has run live in an in-game playtest, text-to-creature generation where all 36 test creatures import into UE 5.8 rigged and animated, plus character motion, voice and simulation research. Results, with the benchmarks and where we still trail: [mashbox.gg/labs](https://mashbox.gg/labs). | <img src="images/mashbox-hero.jpg" width="400" alt="MASHBOX"> |
+| **[MASHBOX](https://mashbox.gg)**: any world, any gameplay, any character. MASHBOX puts the worlds and play styles of the games you already own into one engine, with multiplayer. Free early access on Windows, and our own worlds run right in the browser.<br><br>**MASHBOX Labs** trains the models behind our Unreal Engine 5 game, 2034: creature motion that has run live in an in-game playtest, text-to-creature generation where all 36 test creatures import into UE 5.8 rigged and animated, plus the research below. | <img src="images/mashbox-hero.jpg" width="400" alt="MASHBOX"> |
 | **[Return of the Colossi](https://returnofthecolossi.com)**: a browser game homage to Shadow of the Colossus. The first playable build came together in 48 hours, built with AI, three.js, WebGPU, Jolt physics and headless Blender. | <img src="images/colossi.jpg" width="400" alt="Return of the Colossi"> |
 | **[Resident Evil 4](https://github.com/boshjerns/re4-boshjerns-sdk)**: decompiled and modded in 12 hours, then running in the browser on WebAssembly and natively on ARM64 with no emulator. | <img src="images/re4.jpg" width="400" alt="Resident Evil 4 mod"> |
 
@@ -27,9 +27,21 @@ I build real-time software: games and the AI models inside them at MASHBOX, nati
 - **Quantish** let AI agents trade prediction markets and moved about $500K in volume.
 - **DoFDGPT** (government contract briefs) and **SnapCycle** (AI recycling assistant), both sold.
 
+## Models and research
+
+At **[MASHBOX Labs](https://mashbox.gg/labs)** I work on the models a living game world needs, and publish measured results with the benchmark and hardware next to each number. Current directions:
+
+- **Creature motion for any skeleton**: one model that animates bodies it has never seen, from quadrupeds to creatures with extra limbs.
+- **Text to game-ready creatures**: a prompt in, a rigged, skinned and animated character out that imports straight into Unreal Engine.
+- **Character motion from text**: fast human motion generation for in-game characters.
+- **Full-duplex voice**: characters that listen and talk at the same time, with natural turn-taking.
+- **Game worlds as simulators**: physics, people and labels the engine measures exactly, used as training data for models that work in the real world.
+- **Fast inference**: real-time models on consumer GPUs and phones, and training on Cloud TPUs.
+
+Along the way I fix correctness bugs in the open-source runtimes we build on: [llama.cpp](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr+author%3Aboshjerns) (reranker, encoder and vision models) and Google's [MaxDiffusion](https://github.com/AI-Hypercomputer/maxdiffusion/pulls?q=is%3Apr+author%3Aboshjerns) (Wan VAE attention, bf16 LoRA merges).
+
 ## Open source
 
-- **Model code fixes**: correctness fixes to open-source model runtimes, including Google's [MaxDiffusion](https://github.com/AI-Hypercomputer/maxdiffusion/pulls?q=is%3Apr+author%3Aboshjerns) (Wan VAE attention, bf16 LoRA merges), plus vision and encoder model accuracy work.
 - **[Mithril Whisper](https://github.com/boshjerns/MithrilWhisperApp)**: private on-device dictation for Mac and Windows.
 - **[Tmuxius](https://github.com/boshjerns/Tmuxius)**: a compact tmux dashboard for coding agents.
 
