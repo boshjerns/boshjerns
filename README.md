@@ -1,94 +1,45 @@
-# Hey there! 👋 I'm Josh
+# Josh Berns (bosh)
 
-**Solo full-stack creator turning ideas into working applications and products, fast.**
+**I fight the speed of light with software.**
 
-Photographer → Web3 → Full-stack developer. Built smart contracts, trained AI models, even produced AI video for AMC documentary film.
+I go after problems where milliseconds decide the outcome and the result lands in the real world: market data that arrives before the trade settles, models that run entirely on the phone in your pocket, game worlds that react inside a single frame. Photographer turned engineer.
+
+[boshjerns.com](https://boshjerns.com) · [mashbox.gg](https://mashbox.gg) · [X](https://x.com/boshjerns) · [LinkedIn](https://www.linkedin.com/in/josh-berns-6a553717b/)
 
 ---
 
-## Mithril Whisper
+## Now building
 
 |  |  |
 |:--|:--:|
-| **Mithril Whisper** is a completely free, privacy‑first AI voice dictation application that runs entirely on your device using Whisper.cpp. Features include global hotkey activation, heads‑up display overlay, and zero data transmission—your voice never leaves your computer. Perfect for writers, developers, and anyone who values privacy. | <img src="https://raw.githubusercontent.com/boshjerns/boshjerns/main/images/mithril-whisper-CKumv1R8.png" width="400" alt="Mithril Whisper preview"> |
+| **[MASHBOX](https://mashbox.gg)**: any world, any gameplay, any character. MASHBOX puts the worlds and play styles of the games you already own into one engine, with multiplayer. Free early access on Windows, and our own worlds run right in the browser. Research notes from the lab live at [mashbox.gg/labs](https://mashbox.gg/labs). | <img src="images/mashbox-hero.jpg" width="400" alt="MASHBOX"> |
+| **[Return of the Colossi](https://returnofthecolossi.com)**: a browser game homage to Shadow of the Colossus. The first playable build came together in 48 hours, built with AI, three.js, WebGPU, Jolt physics and headless Blender. | <img src="images/colossi.jpg" width="400" alt="Return of the Colossi"> |
+| **[Resident Evil 4](https://github.com/boshjerns/re4-boshjerns-sdk)**: decompiled and modded in 12 hours, then running in the browser on WebAssembly and natively on ARM64 with no emulator. | <img src="images/re4.jpg" width="400" alt="Resident Evil 4 mod"> |
 
----
-
-## Mithril LLM Suite
-
-|  |  |
-|:--|:--:|
-| **Mithril LLM Suite** brings the power of large language models directly to your iOS device. Run AI models completely offline with no internet connection required. Multiple model options, local inference, and complete privacy—your conversations never leave your device. Free download available on the iOS App Store. | <img src="https://raw.githubusercontent.com/boshjerns/boshjerns/main/images/mithril-llm-suite-DjMp8JG3.png" width="400" alt="Mithril LLM Suite preview"> |
-
-App Store: https://apps.apple.com/us/app/local-llm-mithril/id6751945393
-
----
-
-## DoFDGPT
+## Apps
 
 |  |  |
 |:--|:--:|
-| **DoFDGPT** is an AI‑first contract‑intelligence platform that makes dense government contract opportunities instantly understandable and actionable. The platform analyzes complex RFPs, identifies key requirements, and provides strategic insights to help businesses win more contracts. Features include automated opportunity scoring, requirement extraction, and competitive analysis. | <img src="https://raw.githubusercontent.com/boshjerns/boshjerns/main/images/dofdgpt-0SFdkiSv.png" width="400" alt="DoFDGPT preview"> |
+| **[Mithril](https://apps.apple.com/us/app/local-llm-mithril/id6751945393)**: private AI that never leaves your phone. Runs language models entirely on iPhone and iPad (Apple's on-device model plus open GGUF models from Hugging Face), with a memory-fit check before every download and a live engine dashboard. It acts with permission through Reminders, Calendar, Messages, Maps and Shortcuts, and transcribes on-device. 4.5★ on the App Store, free. | <img src="images/mithril-iphone-1.jpg" width="220" alt="Mithril on iPhone"> |
+| **agg.market**: every prediction market venue on one screen, with smart order routing that splits each trade for the best price and live crypto rounds. Native Swift and SwiftUI on iPhone, iPad and Mac from one codebase. Public beta on TestFlight. | <img src="images/agg-iphone-1.jpg" width="220" alt="agg.market on iPhone"> |
 
-Site: https://dofdgpt.com
+## Shipped
 
----
+- **Polynode, acquired.** Real-time data infrastructure for prediction markets that streams orders to the trading products built on top. agg.market acquired it in July 2026 ([Chainwire](https://www.tradingview.com/news/chainwire:7f0ceb3a3094b:0-agg-market-acquires-polynode-the-fastest-polymarket-data-api/), [Prediction News](https://predictionnews.com/story/agg-market-acquires-polynode-a-polymarket-data-api-provider)).
+- **Quantish** let AI agents trade prediction markets and moved about $500K in volume.
+- **DoFDGPT** (government contract briefs) and **SnapCycle** (AI recycling assistant), both sold.
 
-## 🛠️ Other Projects
+## Open source
 
-### Projects with Visual Examples
+- **[llama.cpp](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr+author%3Aboshjerns)**: regular contributor, mostly reranker, encoder and vision model support.
+  - [#29627](https://github.com/ggml-org/llama.cpp/pull/29627) support classifier_pooling for ModernBERT rerankers
+  - [#29692](https://github.com/ggml-org/llama.cpp/pull/29692) support classifier_activation for rerankers
+  - [#30108](https://github.com/ggml-org/llama.cpp/pull/30108) use exact GELU for ModernBERT encoders
+  - [#30736](https://github.com/ggml-org/llama.cpp/pull/30736) match the transformers Qwen-VL resize
+- **[MaxDiffusion](https://github.com/AI-Hypercomputer/maxdiffusion/pulls?q=is%3Apr+author%3Aboshjerns)**: correctness fixes for Wan VAE attention and bf16 LoRA merges.
+- **[Mithril Whisper](https://github.com/boshjerns/MithrilWhisperApp)**: private on-device dictation for Mac and Windows.
+- **[Tmuxius](https://github.com/boshjerns/Tmuxius)**: a compact tmux dashboard for coding agents.
 
-- 📄 **[AnyDocAI](https://anydocai.com)** – Converts any doc/image into clean HTML, Markdown, CSV
-  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeifunoontqeoee4jv5vedr7cflsn5ftk2ocfbx37tmtmhd6fapywkq" width="200" height="133"></div>
+## Before software
 
-- 🤖 **[BlogAura](https://blogaura.ai)** – AI blog writer using live web data
-  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeifuoqe6x4vtihjvv7gjatscw6uea23bhulwbi2knqsmjjskcya44a" width="200" height="133"></div>
-
-- 📄 **[ChatWithMyDoc](https://www.chatwithmydoc.live)** – Quickly create secure links to chat with documents - PDFs, HTML, etc
-  <br><div align="center"><img src="https://ipfs.io/ipfs/bafkreic3tuteq2e7molkoj7fpsmuu5v5pafnz5smystdpoyiki7kj3ampy" width="200" height="133"></div>
-
-- ♻️ **SnapCycle** 🏷️ **SOLD** – Recycling assistant with AI impact scans
-  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeiaudkbkzamt7vzhvpz3tdcob2kotpc5u2wkbu2exlcj7h67fah6wi" width="200" height="133"></div>
-
-- 🎥 **[UserContent.ai](https://usercontent.ai)** – Professional AI influencer video generation platform
-  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeib65pmycjzzgjm5gqdlxj73i55sirknygg55lrpwznq3iz5blnqfq" width="200" height="133"></div>
-
-- 🔍 **[WhatForWho](https://whatforwho.xyz)** – Real‑time contact discovery tool
-  <br><div align="center"><img src="https://ipfs.io/ipfs/bafybeidhchmdw2iqpgcuzlqlrrew2vci5ka3l4vbzlhlzxhjeek2sislaa" width="200" height="133"></div>
-
-### Additional Projects
-
-- 🍽️ **[Feast Digital](https://feast.digital)** – Restaurant management platform
-
-- 🍔 **[FoodBot](https://foodbot.shop)** – Conversational food‑ordering platform (in development)
-
-- 🔮 **[PalmReadAI](https://palmreadai.com)** – Palm‑reading app powered by AI analysis
-
-
-## 🧠 Tech Stack
-
-**Frontend:** ⚛️ React • 🎨 TailwindCSS • 📝 TypeScript • ⚡ Vite • 🔧 tsx • 📦 ESBuild • 🔧 ESLint • 🎨 Prettier
-
-**Backend:** 🟢 Node.js • 🚀 Express • 🐍 Flask • 🦄 Gunicorn • 📧 Nodemailer • 💳 Stripe • 🎨 Canvas API • 🔌 WebSocket • 📡 Socket.io
-
-**Database:** 🐘 PostgreSQL • 🌐 NeonDB • 🌐 Supabase • 🗄️ Drizzle ORM • 🛂 Passport.js • 🔥 Firebase Auth • 🔍 pgvector • 📦 S3
-
-**AI/LLM:** 🤖 OpenAI GPT • 🧠 Anthropic Claude • 💎 Google Gemini • 🔗 LangChain • 🎛️ Gradio • 🎭 Replicate.com • 🎬 AI Video Generation • 🖼️ Computer Vision • 📊 Vector Embeddings
-
-**Web3/Blockchain:** 🔗 Ethereum • 🌅 Solana • 🦊 MetaMask • 🔐 Smart Contracts • 🎨 NFT Development
-
-**Deploy:** 🔥 Firebase • ☁️ Vercel • 🚀 Render • 🛸 Fly.io • 🐳 Docker
-
-**Analytics:** 📊 Databricks • 📈 Custom Analytics • 📋 Logging & Monitoring
-
-## 🏆 Proudest Project
-
-**Camera Person** - Web3 dApp connecting 122 photographers from 39 countries. NFT collection with equal blockchain payouts to all artists. [@camerapersonnft](https://twitter.com/camerapersonnft)
-
-## 📫 Connect
-
-🐦 [@boshjerns](https://twitter.com/boshjerns) • 💼 [@boshjerns](https://github.com/boshjerns)
-
----
-
-*Authorized to work in the US • Open to remote work • Willing to relocate* 
+I spent years photographing live music on the East Coast as a house photographer for venues including Franklin Music Hall in Philadelphia and I.M.P.'s venues in Washington, D.C., and shot the streets of Baltimore. I learned smart contracts to sell my photography online, built Camera Person (122 photographers from 39 countries in one collection), then trained Stable Diffusion models as a new kind of camera and produced AI video for an AMC documentary.
