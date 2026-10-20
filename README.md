@@ -31,11 +31,6 @@ I go after problems where milliseconds decide the outcome and the result lands i
 
 ## Open source
 
-- **[llama.cpp](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr+author%3Aboshjerns)**: regular contributor, mostly reranker, encoder and vision model support.
-  - [#29627](https://github.com/ggml-org/llama.cpp/pull/29627) support classifier_pooling for ModernBERT rerankers
-  - [#29692](https://github.com/ggml-org/llama.cpp/pull/29692) support classifier_activation for rerankers
-  - [#30108](https://github.com/ggml-org/llama.cpp/pull/30108) use exact GELU for ModernBERT encoders
-  - [#30736](https://github.com/ggml-org/llama.cpp/pull/30736) match the transformers Qwen-VL resize
 - **[MaxDiffusion](https://github.com/AI-Hypercomputer/maxdiffusion/pulls?q=is%3Apr+author%3Aboshjerns)**: correctness fixes for Wan VAE attention and bf16 LoRA merges.
 - **[Mithril Whisper](https://github.com/boshjerns/MithrilWhisperApp)**: private on-device dictation for Mac and Windows.
 - **[Tmuxius](https://github.com/boshjerns/Tmuxius)**: a compact tmux dashboard for coding agents.
