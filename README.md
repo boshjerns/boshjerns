@@ -1,6 +1,6 @@
 # Josh Berns (bosh)
 
-I build real-time software: games and the AI models inside them at MASHBOX, native iPhone, iPad and Mac apps for agg.market, on-device AI with Mithril, and before that Polynode, the prediction-market data business agg.market acquired in July 2026.
+I build real-time software: games and the AI models inside them at MASHBOX, native iPhone, iPad and Mac apps in Swift for agg.market and my own App Store apps, and before that Polynode, the prediction-market data business agg.market acquired in July 2026.
 
 [boshjerns.com](https://boshjerns.com) · [mashbox.gg](https://mashbox.gg) · [X](https://x.com/boshjerns) · [LinkedIn](https://www.linkedin.com/in/josh-berns-6a553717b/)
 
@@ -14,16 +14,27 @@ I build real-time software: games and the AI models inside them at MASHBOX, nati
 | **[Return of the Colossi](https://returnofthecolossi.com)**: a browser game homage to Shadow of the Colossus. The first playable build came together in 48 hours, built with AI, three.js, WebGPU, Jolt physics and headless Blender. | <img src="images/colossi.jpg" width="400" alt="Return of the Colossi"> |
 | **[Resident Evil 4](https://github.com/boshjerns/re4-boshjerns-sdk)**: decompiled and modded in 12 hours, then running in the browser on WebAssembly and natively on ARM64 with no emulator. | <img src="images/re4.jpg" width="400" alt="Resident Evil 4 mod"> |
 
-## Apps
+## iOS apps (native Swift and SwiftUI)
 
-|  |  |
-|:--|:--:|
-| **[Mithril](https://apps.apple.com/us/app/local-llm-mithril/id6751945393)**: private AI that never leaves your phone. Runs language models entirely on iPhone and iPad (Apple's on-device model plus open GGUF models from Hugging Face), with a memory-fit check before every download and a live engine dashboard. It acts with permission through Reminders, Calendar, Messages, Maps and Shortcuts, and transcribes on-device. 4.5★ on the App Store, free. | <img src="images/mithril-iphone-1.jpg" width="220" alt="Mithril on iPhone"> |
-| **[agg.market](https://agg.market)**: since the Polynode acquisition I've worked with the agg.market team across the product. The highlight is its native app, built in Swift and SwiftUI: every prediction market venue on one screen, smart order routing that splits each trade for the best price, and live crypto rounds, on iPhone, iPad and Mac from one codebase. Public beta on TestFlight. | <img src="images/agg-iphone-1.jpg" width="220" alt="agg.market on iPhone"> |
+My App Store apps are published under [Deploy Forward LLC](https://apps.apple.com/us/developer/deploy-forward-llc/id1834702526).
+
+**[Mithril](https://apps.apple.com/us/app/local-llm-mithril/id6751945393)**: private AI that never leaves your phone. Runs language models entirely on iPhone and iPad (Apple's on-device model plus open GGUF models from Hugging Face), with a memory-fit check before every download and a live engine dashboard. It acts with permission through Reminders, Calendar, Messages, Maps and Shortcuts, and transcribes on-device. 4.5★ on the App Store, free.
+
+<p><img src="images/appstore-mithril-1.jpg" width="170" alt="Mithril"> <img src="images/appstore-mithril-2.jpg" width="170" alt="Mithril models"> <img src="images/appstore-mithril-3.jpg" width="170" alt="Mithril engine"></p>
+
+**agg.market**: since the Polynode acquisition I've worked with the agg.market team across the product. The highlight is its native app: every prediction market venue on one screen, smart order routing that splits each trade for the best price, and live crypto rounds, on iPhone, iPad and Mac from one codebase. Public beta on TestFlight.
+
+<p><img src="images/agg-iphone-1.jpg" width="170" alt="agg.market"> <img src="images/agg-iphone-2.jpg" width="170" alt="agg.market sports"> <img src="images/agg-iphone-3.jpg" width="170" alt="agg.market crypto"></p>
+
+**[infipedia](https://apps.apple.com/us/app/infipedia/id6752109334)**: an infinite wiki that writes itself as you click, running a local language model entirely on the phone, even in airplane mode. 5★.
+
+**[FPV Drone Operator Manual](https://apps.apple.com/us/app/fpv-drone-operator-manual/id6752651844)**: a field manual for building FPV drones, with components, compatibilities, connections and example builds. 5★.
+
+<p><img src="images/appstore-infipedia-1.jpg" width="170" alt="infipedia"> <img src="images/appstore-infipedia-2.jpg" width="170" alt="infipedia article"> <img src="images/appstore-fpv-1.jpg" width="170" alt="FPV Drone Operator Manual"> <img src="images/appstore-fpv-2.jpg" width="170" alt="FPV example builds"></p>
 
 ## Shipped
 
-- **Polynode, acquired.** I built and ran Polynode, real-time data infrastructure for prediction markets that streams orders to the trading products built on top, with paying API customers. agg.market acquired it in July 2026 ([Chainwire](https://www.tradingview.com/news/chainwire:7f0ceb3a3094b:0-agg-market-acquires-polynode-the-fastest-polymarket-data-api/), [Prediction News](https://predictionnews.com/story/agg-market-acquires-polynode-a-polymarket-data-api-provider)).
+- **Polynode, acquired.** I built and ran Polynode, low-latency trading infrastructure for prediction markets: real-time market and order data streamed to the trading products built on top, with paying API customers. Its data has powered about $2 billion of trading volume to date, and it's still running. agg.market acquired it in July 2026 ([Chainwire](https://www.tradingview.com/news/chainwire:7f0ceb3a3094b:0-agg-market-acquires-polynode-the-fastest-polymarket-data-api/), [Prediction News](https://predictionnews.com/story/agg-market-acquires-polynode-a-polymarket-data-api-provider)).
 - **Quantish** let AI agents trade prediction markets and moved about $500K in volume.
 - **DoFDGPT** (government contract briefs) and **SnapCycle** (AI recycling assistant), both sold.
 
