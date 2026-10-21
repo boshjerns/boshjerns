@@ -42,11 +42,11 @@ My App Store apps are published under [Deploy Forward LLC](https://apps.apple.co
 
 At **[MASHBOX Labs](https://mashbox.gg/labs)** I work on the models a living game world needs, and publish measured results with the benchmark and hardware next to each number. Current directions:
 
-- **Creature motion for any skeleton**: one model that animates bodies it has never seen, from quadrupeds to creatures with extra limbs.
+- **Creature motion for any skeleton**: one model that animates bodies it has never seen on our own synthetic benchmark, from quadrupeds to creatures with extra limbs.
 - **Text to game-ready creatures**: a prompt in, a rigged, skinned and animated character out that imports straight into Unreal Engine.
 - **Character motion from text**: fast human motion generation for in-game characters.
 - **Full-duplex voice**: characters that listen and talk at the same time, with natural turn-taking.
-- **Game worlds as simulators**: physics, people and labels the engine measures exactly, used as training data for models that work in the real world.
+- **Game worlds as simulators**: physics, people and labels the engine measures exactly, as training data, working toward models that work in the real world.
 - **Fast inference**: real-time models on consumer GPUs and phones, and training on Cloud TPUs.
 
 Along the way I fix correctness bugs in the open-source runtimes we build on: [llama.cpp](https://github.com/ggml-org/llama.cpp/pulls?q=is%3Apr+author%3Aboshjerns) (reranker, encoder and vision models) and Google's [MaxDiffusion](https://github.com/AI-Hypercomputer/maxdiffusion/pulls?q=is%3Apr+author%3Aboshjerns) (Wan VAE attention, bf16 LoRA merges).
